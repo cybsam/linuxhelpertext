@@ -1,0 +1,3 @@
+/var/www/html file permission change use
+chmod -R 777 /var/www/html/freechat/private
+chmod -R 777 /var/www/html/freechat/public
